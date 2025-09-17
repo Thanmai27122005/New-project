@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Admin Panel</title>
+  <title>Admins Panel</title>
   <style>
     body { margin:0; font-family: Arial, sans-serif; }
     .sidebar { width: 220px; height: 100vh; background: #222; color: white; position: fixed; padding: 20px; }
@@ -31,3 +31,4 @@
   </div>
 </body>
 </html>
+
